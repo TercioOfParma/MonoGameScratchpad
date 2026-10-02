@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="MonoGameScratchpad/MonoGameScratchpad.Android/MonoGameScratchpad.Android.csproj">
+    <Deploy />
+  </Project>
+  <Project Path="MonoGameScratchpad/MonoGameScratchpad.Core/MonoGameScratchpad.Core.csproj" />
+  <Project Path="MonoGameScratchpad/MonoGameScratchpad.DesktopGL/MonoGameScratchpad.DesktopGL.csproj" />
+  <Project Path="MonoGameScratchpad/MonoGameScratchpad.iOS/MonoGameScratchpad.iOS.csproj" />
+  <Project Path="MonoGameScratchpad/MonoGameScratchpad.WindowsDX/MonoGameScratchpad.WindowsDX.csproj" />
+</Solution>
